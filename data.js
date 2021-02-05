@@ -34,25 +34,25 @@ var APP_DATA = {
           "yaw": 1.9420899212855698,
           "pitch": 0.15141502435130505,
           "title": "Needles and Equipment",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1IW5pPXogsLc6PfixG8wf2d0vqu1l2kyh/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -2.637186659638063,
           "pitch": 0.359828718713084,
           "title": "Class Expectations",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1Ik5jr6g8v6Y7urwoiCL9UICAn8kiONm1/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -1.4028020999843065,
           "pitch": 0.3194539425106768,
           "title": "Handwashing",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1IRBonFainfznEQ-K-km54VJTWWO82zXH/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": 0.31036564691833135,
           "pitch": 0.12948805658340845,
           "title": "Introduction",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1IIcpYmLuOaXiH6-KcvFYnv8HAsjfT9hm/preview" width="640" height="480"></iframe>'
         }
       ]
     }
